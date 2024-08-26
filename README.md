@@ -2,8 +2,6 @@
 
 ## Finalterm Project
 
-### By Afrizal I. Yafi' and Fajri Ahmad N.
-
 ---
 
 ## Overview
